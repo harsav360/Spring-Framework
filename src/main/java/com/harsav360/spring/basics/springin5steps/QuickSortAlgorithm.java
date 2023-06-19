@@ -1,9 +1,9 @@
 package com.harsav360.spring.basics.springin5steps;
 
-public class BubbleSortAlgorithm implements SortAlgorithm {
+public class QuickSortAlgorithm implements SortAlgorithm {
 	public int[] sort(int[] numbers)
 	{
-		// Logic for Bubble Sort
+		// Logic for QuickSort
 		return numbers;
 	}
 
